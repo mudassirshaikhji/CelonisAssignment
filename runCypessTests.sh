@@ -1,1 +1,1 @@
-./node_modules/.bin/cypress run
+./node_modules/.bin/cypress run --headless --browser chrome

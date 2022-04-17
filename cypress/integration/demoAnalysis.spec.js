@@ -3,7 +3,7 @@
 import ProcessAnalyticsPage from "../pages/ProcessAnalyticsPage"
 import SideNavbar from "../pages/SideNavbar"
 
-describe('Login Tests', function() {
+describe('Demo analysis availabilty tests', function() {
     before(function() {
         cy.visit('https://applications.eu-1.celonis.cloud/ui/login')
         cy.loginWithCredentials(
