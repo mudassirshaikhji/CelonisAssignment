@@ -2,7 +2,8 @@
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/mudassirshaikhji/CelonisAssignment.git
+
 Install dependencies:
 
 npm install
