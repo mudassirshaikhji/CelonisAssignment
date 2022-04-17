@@ -1,5 +1,8 @@
 # CelonisAssignment
 
+Clone the repository:
+
+git clone 
 Install dependencies:
 
 npm install
