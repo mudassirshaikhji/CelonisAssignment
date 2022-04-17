@@ -22,5 +22,5 @@ On Windows, Navigate to root folder and double click on the runCypressTests.sh f
 
 Reports:
 
-After running the tests, the mochawesome report is available in ~/cypress/reports/html/index.html
+After running the tests, the test report is available in ~/cypress/reports/html/index.html
 
