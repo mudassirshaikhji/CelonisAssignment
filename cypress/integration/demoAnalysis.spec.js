@@ -20,6 +20,7 @@ describe('Demo analysis availabilty tests', function() {
         SideNavbar.navigateToProcessAnalyticsPage()
         ProcessAnalyticsPage.loadOrderToCash()
         cy.verifyComponentIsLoaded()
+        //Added a comment
     })
 
     it('should load Purchase to pay analyses section', function() {
